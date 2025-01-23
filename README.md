@@ -83,11 +83,19 @@
 />
 <img 
     align="left" 
-    alt="docker" 
-    title="docker"
+    alt="python" 
+    title="python"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="hibernate" 
+    title="hibernate"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
 />
 <br/>
 <br/>
