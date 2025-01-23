@@ -8,8 +8,15 @@
 
 **`Desenvolvedor back-end`**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-scherrer-santos-17b893244/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allanscherrer/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/allan-scherrer-santos-17b893244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+    
+  <a href="https://www.instagram.com/allanscherrer/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <div align="center"> 
     <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=allanScS&show_icons=true&theme=highcontrast" </img>
