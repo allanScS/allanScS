@@ -11,9 +11,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-scherrer-santos-17b893244/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allanscherrer/)
 
-![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=allanScS&show_icons=true&theme=tokyonight)
+<div align="center"> 
+    <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=allanScS&show_icons=true&theme=highcontrast" </img>
+    <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanScS&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"</img>
+</div>
 
-![Gabriel Oliveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanScS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ## Tecnologias que eu uso no meu dia a dia
 
